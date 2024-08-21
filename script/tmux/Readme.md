@@ -16,7 +16,7 @@ This script creates a popup window in tmux that lists all tmux sessions using `f
 **Usage:**
 
 A sample configuration is provided in the script.
-[tmux-session-popup.sh](scripts/tmux/tmux-session-popup.sh)
+[tmux-session-popup.sh](./tmux-session-popup.sh)
 
 ---
 
