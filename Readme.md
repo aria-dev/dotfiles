@@ -35,14 +35,14 @@ Included with the scripts individually
 
 ### Tmux Session Popup
 
-**Location**: `scripts/tmux/tmux-session-popup.sh`
+**Location**: `script/tmux/tmux-session-popup.sh`
 
 This script creates a popup window in tmux that lists all tmux sessions using `fzf`. It allows you to switch to the selected session in the current tmux window without creating nested tmux sessions.
 
 **Usage:**
 
 To use the tmux session popup script, simply follow the instructions to add it to your tmux config:
-[tmux-session-popup.sh](./scripts/tmux/tmux-session-popup.sh)
+[tmux-session-popup.sh](./script/tmux/tmux-session-popup.sh)
 
 This will open a new tmux window with the session switcher.
 
